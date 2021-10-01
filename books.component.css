@@ -1,0 +1,19 @@
+.books
+{
+    background-color: greenyellow;
+    padding: 50px 100px;
+}
+.box
+{
+    background-color: honeydew;
+    padding: 10px 20px;
+}
+
+@media screen and (max-width:600px)
+{
+    .books
+{
+    background-color: whitesmoke;
+    padding: 50px 10px;
+}
+}

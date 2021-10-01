@@ -1,0 +1,19 @@
+.buy
+{
+    background-color: turquoise;
+    padding: 140px 100px;
+}
+.login
+{
+    background-color: whitesmoke;
+    padding: 20px 30px;
+}
+
+@media screen and (max-width:600px)
+{
+    .buy
+    {
+        
+        padding: 140px 50px;
+    }
+}
